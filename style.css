@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: hsl(0deg 0% 11%);
+}
+.button_buy {
+  border-radius: 14px;
+  padding: 0.8rem 1rem;
+  box-shadow: inset 1px -1px 0px 0px grey, inset -1px 1px 5px 2px #282727;
+}
+.phone__boxes {
+  border-radius: 50px;
+  padding: 0.8rem 1.7rem;
+  box-shadow: inset 1px -1px 0px 0px rgba(64, 64, 64, 0.704), inset -1px 1px 5px 2px #222121;
+}
+.phone {
+  border-radius: 50px;
+  box-shadow: inset 1px -1px 0px 0px rgba(64, 64, 64, 0.704), inset -1px 1px 5px 2px #222121;
+}
+.button_page_3{
+  border-radius: 27px;
+  padding: 0.5rem 1.8rem;
+  box-shadow: inset 1px -1px 0px 0px grey, inset -1px 1px 5px 2px #282727;
+}
+.refrigerator{
+  border-radius: 40px;
+
+}
+.tv{
+  border-radius: 50px;
+  padding: 1.5rem 0px;
+  box-shadow: inset 1.5px -1px 1px 0px rgba(124, 122, 122, 0.704), inset -1px 1px 5px 2px #222121;
+}
+.tv_img{
+  border-radius: 20px;
+}
+.button{
+  box-shadow: inset 1px -1px 0px 0px grey, inset -1px 1px 5px 2px #282727;
+}
